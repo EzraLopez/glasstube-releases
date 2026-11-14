@@ -7,8 +7,8 @@ Builds are signed with Developer ID and notarized by Apple.
 ## Install
 
 1. You need **macOS 26 (Tahoe)** or later.
-2. Download the latest `GlassTube-<version>.dmg` from
-   [Releases](../../releases).
+2. Download it from **[elopez.dev/glasstube](https://elopez.dev/glasstube/)**
+   (or the latest `GlassTube-<version>.dmg` under [Releases](../../releases)).
 3. Open it and drag GlassTube to Applications.
 
 Updates arrive in the app: GlassTube ▸ Check for Updates… (it also checks
