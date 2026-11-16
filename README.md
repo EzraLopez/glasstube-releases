@@ -7,7 +7,7 @@ Builds are signed with Developer ID and notarized by Apple.
 ## Install
 
 1. You need **macOS 26 (Tahoe)** or later.
-2. Download it from **[elopez.dev/glasstube](https://elopez.dev/glasstube/)**
+2. Download it from **[ezrabuilds.com/glasstube](https://ezrabuilds.com/glasstube)**
    (or the latest `GlassTube-<version>.dmg` under [Releases](../../releases)).
 3. Open it and drag GlassTube to Applications.
 
