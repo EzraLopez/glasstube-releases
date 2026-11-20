@@ -3,6 +3,14 @@
     <channel>
         <title>GlassTube</title>
         <item>
+            <title>0.1.85</title>
+            <pubDate>Fri, 20 Nov 2026 09:07:04 GMT</pubDate>
+            <sparkle:version>150</sparkle:version>
+            <sparkle:shortVersionString>0.1.85</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/EzraLopez/glasstube-releases/releases/download/v0.1.85/GlassTube-0.1.85.dmg" sparkle:edSignature="NZZXQ53eFVYoIaua8rvL3ai3st4fAN7NuxOm43XxJ+oCfaaTA/liVMfnLKOlxAhhJaZ0ViHjbVeJ6EuUOXEWAQ==" length="6185730" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>0.1.84</title>
             <pubDate>Fri, 20 Nov 2026 09:00:14 GMT</pubDate>
             <sparkle:version>149</sparkle:version>
